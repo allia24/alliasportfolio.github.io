@@ -60,7 +60,7 @@ li a:hover:not(.active) {
   padding-top: 400px;
  text-align: center;
 }
-.card, .card2, .card3, .card4, .card5, .card6, .card7, .card8, .card9 {
+.card, .card2, .card3, .card4, .card5, .card6, .card7, .card8, .card9,.card10 {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   width: 20%;
@@ -71,13 +71,16 @@ li a:hover:not(.active) {
   
 }
 
-.card:hover, .card2:hover, .card3:hover, .card4:hover, .card5:hover, .card6:hover,.card7.card7:hover, .card8:hover, .card9:hover {
+.card:hover, .card2:hover, .card3:hover, .card4:hover, .card5:hover, .card6:hover,.card7.card7:hover, .card8:hover, .card9:hover, .card10:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 
 }
 
-.container, .container2, .container3 .container4, .container5, .container6, .container7, .container8, .container9 {
+.container, .container2, .container3 .container4, .container5, .container6, .container7, .container8, .container9, .container10 {
   padding: 2px 16px;
   color: floralwhite;
 
+}
+p{
+  text-decoration: none;
 }
